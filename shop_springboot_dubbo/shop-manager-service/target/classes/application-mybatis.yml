@@ -1,0 +1,4 @@
+# SpingBoot整合Mybatis
+mybatis:
+  mapper-locations: classpath:mappers/**/*Mapper.xml
+  type-aliases-package: com.project.domain
